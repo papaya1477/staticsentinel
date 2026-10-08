@@ -35,7 +35,7 @@ ideal para demos) y **JSON** (para integrar con otras herramientas).
 Requiere **Python 3.9+**. La única dependencia es opcional:
 
 ```bash
-git clone <tu-repo>
+git clone https://github.com/papaya1477/staticsentinel.git
 cd malware-analyzer
 pip install -r requirements.txt     # instala pefile (recomendado)
 ```
